@@ -4,7 +4,7 @@ description: Adobe Mix Modeler 的影片和教學課程系列。
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: 3c615f525f1d589af3220bdd8f2cd40894d8f829
+source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -44,16 +44,16 @@ Adobe Mix Modeler可協助組織透過套用機器學習模型來測量、最佳
     <p>
   </td>
   <td>
-    <a href="intro/user-workflow.md">
-      <img alt="「使用者工作流程」教學課程的縮圖影像" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    <a href="intro/demo.md">
+      <img alt="「端對端示範」教學課程的縮圖影像" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
-      <a href="intro/user-workflow.md">
-    <strong>使用者工作流程</strong>
+      <a href="intro/demo.md">
+    <strong>端對端示範</strong>
     </a>
     </div>
     <p>
-    <em>瞭解Adobe Mix Modeler的基本工作流程</em>
+    <em>檢視Adobe Mix Modeler的端對端示範</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ Adobe Mix Modeler可協助組織透過套用機器學習模型來測量、最佳
     </a>
     </div>
     <p>
-    <em>瞭解Adobe Mix Modeler的主要使用者介面元件</em>
+    <em>瞭解Adobe Mix Modeler</em>的主要使用者介面元件
     <p>
   </td>
 </tr>
