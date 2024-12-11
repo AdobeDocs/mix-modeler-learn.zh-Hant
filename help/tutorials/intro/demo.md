@@ -4,16 +4,16 @@ description: 瞭解Adobe Mix Modeler的端對端工作流程。
 role: Developer, User
 level: Beginner
 doc-type: Value Video
-duration: 1299
+duration: 1280
 last-substantial-update: 2024-12-03T00:00:00Z
 jira: KT-16610
-source-git-commit: 82de89bcc3c3166892e1fa0741dcf6159ec506e4
+exl-id: 097a1672-7163-4982-ace4-12d0ab33a622
+source-git-commit: 28f2a40e4b23240a9efc4c5288412b07df72c755
 workflow-type: tm+mt
 source-wordcount: '33'
 ht-degree: 0%
 
 ---
-
 
 # Mix Modeler端對端示範
 
