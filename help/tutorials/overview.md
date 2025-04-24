@@ -4,16 +4,16 @@ description: Adobe Mix Modeler 的影片和教學課程系列。
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
+source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Mix Modeler 教學課程
 
-從這些影片和教學課程瞭解Adobe Mix Modeler。
+透過這些影片和教學課程瞭解Adobe Mix Modeler。
 
 Adobe Mix Modeler可協助組織透過套用機器學習模型來測量、最佳化和規劃行銷投資，這些模型可提供行銷投資對關鍵業務目標的歷史和未來影響的深入分析。
 
@@ -30,19 +30,6 @@ Adobe Mix Modeler可協助組織透過套用機器學習模型來測量、最佳
 <div id="staff-picks-section">
 <table style="margin-top: 0 !important">
 <tr>
-  <td>
-    <a href="intro/use-cases.md">
-      <img alt="「使用案例」教學課程的縮圖影像" src="https://video.tv.adobe.com/v/3424857?format=jpeg" />
-    </a>
-    <div>
-      <a href="intro/use-cases.md">
-    <strong>使用案例</strong>
-    </a>
-    </div>
-    <p>
-    <em>瞭解Adobe Mix Modeler的主要使用案例</em>
-    <p>
-  </td>
   <td>
     <a href="intro/demo.md">
       <img alt="「端對端示範」教學課程的縮圖影像" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
@@ -66,10 +53,23 @@ Adobe Mix Modeler可協助組織透過套用機器學習模型來測量、最佳
     </a>
     </div>
     <p>
-    <em>瞭解Adobe Mix Modeler</em>的主要使用者介面元件
+    <em>瞭解Adobe Mix Modeler的主要使用者介面元件</em>
     <p>
   </td>
 </tr>
+  <td>
+    <a href="intro/user-workflow.md">
+      <img alt="「使用者工作流程」教學課程的縮圖影像" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    </a>
+    <div>
+      <a href="intro/user-workflow.md">
+    <strong>使用者工作流程</strong>
+    </a>
+    </div>
+    <p>
+    <em>瞭解Adobe Mix Modeler中的使用者工作流程</em>
+    <p>
+  </td>
 </table>
 
 </div>
