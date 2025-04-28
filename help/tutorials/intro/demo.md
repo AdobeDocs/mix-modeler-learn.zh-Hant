@@ -1,6 +1,6 @@
 ---
 title: Mix Modeler端對端示範
-description: 瞭解Adobe Mix Modeler的端對端工作流程。
+description: 瞭解Adobe Mix Modeler的端到端工作流程。
 role: Developer, User
 level: Beginner
 doc-type: Value Video
