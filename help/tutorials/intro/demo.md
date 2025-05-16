@@ -1,6 +1,6 @@
 ---
 title: Mix Modeler端對端示範
-description: 瞭解Adobe Mix Modeler的端到端工作流程。
+description: 了解 Adobe Mix Modeler 端對端工作流程。
 role: Developer, User
 level: Beginner
 doc-type: Value Video
@@ -11,12 +11,12 @@ exl-id: 097a1672-7163-4982-ace4-12d0ab33a622
 source-git-commit: 28f2a40e4b23240a9efc4c5288412b07df72c755
 workflow-type: tm+mt
 source-wordcount: '33'
-ht-degree: 0%
+ht-degree: 24%
 
 ---
 
 # Mix Modeler端對端示範
 
-請參閱Adobe Mix Modeler的端對端示範。 如需其他資訊，請參閱[Mix Modeler檔案](https://experienceleague.adobe.com/zh-hant/docs/mix-modeler/using/overview)。
+請參閱Adobe Mix Modeler的端對端示範。 如需其他資訊，請參閱[Mix Modeler檔案](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440805/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
