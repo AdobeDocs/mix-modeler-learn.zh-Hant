@@ -7,8 +7,8 @@ doc-type: video
 auto-video-transcripts: true
 source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '34'
+ht-degree: 55%
 
 ---
 

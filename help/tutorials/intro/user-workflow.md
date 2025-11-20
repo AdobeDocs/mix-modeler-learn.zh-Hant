@@ -17,6 +17,6 @@ ht-degree: 23%
 
 # 使用者工作流程
 
-瞭解Mix Modeler的工作流程。 如需其他資訊，請參閱[Mix Modeler工作流程](https://experienceleague.adobe.com/zh-hant/docs/mix-modeler/using/get-started/workflow)檔案。
+瞭解Mix Modeler的工作流程。 如需其他資訊，請參閱[Mix Modeler工作流程](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow)檔案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440218?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
