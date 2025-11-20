@@ -17,6 +17,6 @@ ht-degree: 28%
 
 # 使用者介面導覽
 
-請參閱使用者介面中的Mix Modeler主要功能。 如需其他資訊，請參閱[Adobe Mix Modeler指南](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow)。
+請參閱使用者介面中的Mix Modeler主要功能。 如需其他資訊，請參閱[Adobe Mix Modeler指南](https://experienceleague.adobe.com/zh-hant/docs/mix-modeler/using/get-started/workflow)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
