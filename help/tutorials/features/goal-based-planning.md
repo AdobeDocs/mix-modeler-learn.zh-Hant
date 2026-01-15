@@ -6,17 +6,17 @@ level: Beginner
 doc-type: Value Video
 hide: true
 hidefromtoc: true
-source-git-commit: 4cf4490922855f1942c54215ca710f7aee652ec1
+source-git-commit: 8233855d62cff9386cccda657ad9daa57b9f7faf
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 
-# 以目標為基礎的規劃
+# 目標型規劃
 
-透過Mix Modeler中的目標型規劃功能，您可以根據業務目標進行規劃，而不只是根據預算。 您可以放心地跨管道和行銷活動有效率地分配預算，以最大的投資報酬率達成您的目標。 如需詳細資訊，請參閱Mix Modeler檔案中的[計畫](https://experienceleague.adobe.com/zh-hant/docs/mix-modeler/using/plans/overview){target="_blank"}。
+透過Mix Modeler中的目標型規劃功能，您可以根據業務目標進行規劃，而不只是根據預算。 您可以放心地跨管道和行銷活動有效率地分配預算，以最大的投資報酬率達成您的目標。 如需詳細資訊，請參閱Mix Modeler檔案中的[計畫](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"}。
 
 >[!SLIDE](goal-based-planning)
 
