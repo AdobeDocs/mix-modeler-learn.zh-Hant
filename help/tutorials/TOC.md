@@ -5,10 +5,10 @@ user-guide-description: Adobe Mix Modeler 的影片和教學課程系列。
 audience: all
 doc-type: video
 auto-video-transcripts: true
-source-git-commit: d671050ee37161860ac6a3c64c78595c4d80c5f5
+source-git-commit: e037e5e4219dab3d80a0d2c50f6e814ea5e2b91a
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 52%
+source-wordcount: '41'
+ht-degree: 48%
 
 ---
 
@@ -22,3 +22,4 @@ ht-degree: 52%
    + [使用者介面導覽](/help/tutorials/intro/user-interface-tour.md)
 + 功能 {#features}
    + [以目標為基礎的規劃](/help/tutorials/features/goal-based-planning.md)
+   + [模型漂移偵測](/help/tutorials/features/model-drift-detection.md)
