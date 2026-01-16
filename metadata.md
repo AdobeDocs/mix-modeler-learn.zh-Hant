@@ -1,14 +1,13 @@
 ---
 cloud: Experience Cloud
 solution: Mix Modeler
-product: mix modeler
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/mix-modeler-learn.zh-Hant
-source-git-commit: cdf2d8be116afcc9d4d565620ee2a909884ff7b3
+source-git-commit: 2ed374fe9dcd71de94caa9eff170063c0b5c7777
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
