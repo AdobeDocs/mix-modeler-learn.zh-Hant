@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 模型漂移偵測
 
-使用Mix Modeler的模型漂移偵測功能，系統會自動偵測模型效能的變化，並通知使用者。 他們可以立即採取行動，讓模型回覆至最佳效能。 如需詳細資訊，請參閱Mix Modeler檔案中的[模型漂移](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"}。
+使用Mix Modeler的模型漂移偵測功能，系統會自動偵測模型效能的變化，並通知使用者。 他們可以立即採取行動，讓模型回覆至最佳效能。 如需詳細資訊，請參閱Mix Modeler檔案中的[模型漂移](https://experienceleague.adobe.com/zh-hant/docs/mix-modeler/using/models/insights#model-drift){target="_blank"}。
 
 >[!SLIDE](model-drift-detection)
 
