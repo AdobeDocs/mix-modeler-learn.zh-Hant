@@ -5,7 +5,7 @@ landing-page-name: mix-modeler
 landing-page-breadcrumb-title: Mix Modeler
 type: Tutorial
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/mix-modeler-learn.en
+git-repo: https://github.com/AdobeDocs/mix-modeler-learn.zh-Hant
 index: true
 source-git-commit: e3e99aa0385a603c59fe60c3a7f843061e27960c
 workflow-type: tm+mt
