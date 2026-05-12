@@ -40,7 +40,7 @@ Adobe Mix Modeler可協助組織透過套用機器學習模型來測量、最佳
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="「端對端示範」教學課程的縮圖影像" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
+      <img alt="「端對端示範」教學課程的縮圖影像" src="https://video.tv.adobe.com/v/3440805?captions=chi_hant&format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -53,7 +53,7 @@ Adobe Mix Modeler可協助組織透過套用機器學習模型來測量、最佳
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="「使用者介面導覽」影片的影像縮圖" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
+      <img alt="「使用者介面導覽」影片的影像縮圖" src="https://video.tv.adobe.com/v/3452393?captions=chi_hant&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -66,7 +66,7 @@ Adobe Mix Modeler可協助組織透過套用機器學習模型來測量、最佳
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="「使用者工作流程」教學課程的縮圖影像" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+      <img alt="「使用者工作流程」教學課程的縮圖影像" src="https://video.tv.adobe.com/v/3440218?captions=chi_hant&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
